@@ -1,0 +1,42 @@
+{
+  "name": "grunt-dojo-build-profile",
+  "description": "Auto generate dojo build profiles based on project source",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kfbishop/grunt-dojo-build-profile",
+  "author": {
+    "name": "Karl Bishop",
+    "email": "kfbishop@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kfbishop/grunt-dojo-build-profile.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kfbishop/grunt-dojo-build-profile/issues"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://trac.dojotoolkit.org/browser/dojo/trunk/LICENSE#L13"
+    }
+  ],
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-madge": "0.0.1"
+  },
+  "keywords": [
+    "gruntplugin",
+    "dojo"
+  ],
+  "readme": "# grunt-dojo-build-profile\n\n> See README.md for details.",
+  "readmeFilename": "README.md"
+}
