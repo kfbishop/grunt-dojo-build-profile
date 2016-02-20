@@ -27,10 +27,9 @@
   "scripts": {
     "test": "grunt test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": ">=0.4.0",
     "grunt-madge": "0.0.1"
   },
   "keywords": [
